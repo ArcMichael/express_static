@@ -1,0 +1,22 @@
+{
+  "name": "express_static",
+  "version": "1.0.0",
+  "description": "express_static",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArcMichael/express_static.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArcMichael/express_static/issues"
+  },
+  "homepage": "https://github.com/ArcMichael/express_static#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
